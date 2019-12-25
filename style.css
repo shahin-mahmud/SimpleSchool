@@ -1,0 +1,126 @@
+/* CSS Document */
+.td{
+		margin:10px;
+		width:167px;
+		text-align:center;
+		}
+	.menu{
+		text-decoration:none;}
+	iframe{width:1210px;
+		 height:400px;
+		 margin:5px;
+		 background-color:#FFFFFF;}
+	 .mainlowdiv{
+		 width:1210px;
+		 margin-top:5px;
+		 border:1px solid green;
+		 height:1080px;
+		 background-color:#0066CC;
+		 color:#FFFFFF;}
+	 /*.firstpage{
+		 border: 1px solid red;
+		 margin:5px;
+		 height:1770px;
+		 background-color:#33FF99;}*/
+	.subone{width:300px;
+				height:1050px;
+				float:left;
+				border:1px solid black;
+				margin:5px;
+				text-align:justify;
+				padding:5px;}
+	.subtwo{
+				width:300px;
+				height:1050px;
+				float:right;
+				border:1px solid black;
+				margin:5px;
+				padding:5px;
+				background-color:#CCCCCC;}
+	.noticediv{
+				border:1px solid green;
+				margin:10px;
+				height:120px;
+				padding:10px;}
+	.logo{
+				float:left;}
+	.name{
+				float:left;
+				text-align:center;
+				margin:10px;
+				width:800px;
+				}
+	.topdiv{
+				height:100px;
+				width:auto;
+				border: 1px solid black;
+				margin:10px;
+				}
+	.socialnetwork{
+				margin:20px;
+				}
+	.addmissioninput{
+				width:500px;
+				margin:20px;}
+	legend{
+				text-align:center;
+				color:red;}
+	.aligntable{
+				text-align:right;}
+	.buttonsubmit{
+				width:120px;
+				height:50px;
+				background-color:#0099CC;
+				color:#FFFFFF;
+				margin:10px;}
+	.submitdiv{
+				float:right;}
+	.buttonreset{
+				background-color:#990000;
+				color:#FFFFFF;
+				width:120px;
+				height:50px;}
+	.alignleft{
+		height:20px;
+		width:500px;
+		float:left;}	
+	.alignright{
+		height:20px;
+		width:500px;
+		float:right;
+		}		
+		
+		
+		
+		
+		.honors-syl{
+			width:47%;
+			height:600px;
+			border:2px groove pink;
+			float:left;
+			margin:10px;}
+		.masters-syl{
+			width:47%;
+			height:500px;
+			border:2px groove pink;
+			float:right;
+			margin:10px;
+		}
+	.contactbutton{
+		background-color:#00CC99;
+		height:50px;
+		width:100%;
+		cursor:pointer;
+		margin-top:10px;
+		color:#FFFFFF;
+		font-size:30px;}	
+	.schoolnamebutton{
+		background-color:#FF0000;
+		height:50px;
+		width:100%;
+		cursor:pointer;
+		margin-top:10px;
+		color:#FFFFFF;
+		font-size:30px;}	
+	.unorderstyle{
+	list-style:square;}	
